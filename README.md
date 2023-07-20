@@ -1,10 +1,7 @@
-You may have to download pygame in order to run this
+# Python-Snake
 
-Linux: pip3 install pygame
+- I am not done with this but it's 11:53 PM right now and I need some sleep
+- You may need to download pygame (Linux: sudo pip3 install pygame)
+- If you want feel free to make changes to it
 
-Windows: Idk lol
-
-Mac: Idk lol
-
-I use Linux xD
-
+- Donate:$Network1013
