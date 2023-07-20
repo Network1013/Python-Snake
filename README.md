@@ -1,5 +1,10 @@
-# Python-Snake
+You may have to download pygame in order to run this
 
-- This really isn't done because it's 11:49 PM at the time of making this and I need some sleep.
-- A basic python snake game!
-- Donate: $Network1013
+Linux: pip3 install pygame
+
+Windows: Idk lol
+
+Mac: Idk lol
+
+I use Linux xD
+
